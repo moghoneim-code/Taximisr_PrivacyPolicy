@@ -1,4 +1,4 @@
-**Privacy Policy**
+**TaxiMisr Privacy Policy**
 
 Mohamed Ghoneim built the Taximisr app as a Commercial app. This SERVICE is provided by Mohamed Ghoneim and is intended for use as is.
 
